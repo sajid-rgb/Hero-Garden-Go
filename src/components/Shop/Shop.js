@@ -13,6 +13,7 @@ const Shop = () => {
                     <img src={pr.img} /> <h1 className="m-auto">{pr.title}</h1>
                 </div>)
             }
+            <h1>onClick</h1>
 
         </div>
     );
